@@ -1,6 +1,7 @@
 .body {
     background-attachment: fixed;
     background-color: gray;
+    background-image: url("/images/20200919153308_IMG_0647.JPG")
 }
 .head{
     text-align:center;
